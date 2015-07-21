@@ -1,0 +1,16 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "broccoli": "^0.16.4",
+    "broccoli-funnel": "^0.2.3",
+    "broccoli-merge-trees": "^0.2.2"
+  }
+}
